@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/cardview_shadow_start_color"
+    android:layout_marginTop="8dp"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp"
+    android:padding="8dp"
+    android:weightSum="32">
+
+    <TextView
+        android:id="@+id/available_cryptogram_id"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="6"
+        android:text="001"
+        android:textSize="18sp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/available_cryptogram_progress"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="16"
+        android:textAlignment="center"
+        android:text="in progress"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/available_cryptogram_incorrect"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:textAlignment="center"
+        android:text="0"
+        android:textSize="18sp"/>
+</LinearLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313933920466",
+    "firebase_url": "https://sdpcriptogram.firebaseio.com",
+    "project_id": "sdpcriptogram",
+    "storage_bucket": "sdpcriptogram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313933920466:android:ca7e7b3d43b1ab24",
+        "android_client_info": {
+          "package_name": "edu.gatech.seclass.sdpcryptogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313933920466-sdiedb55jhdp9hrtkfhrbrshp2kngtal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.gatech.seclass.sdpcryptogram",
+            "certificate_hash": "d316f016497b843138868b9634f6ff12743454a7"
+          }
+        },
+        {
+          "client_id": "313933920466-8auugmf3qv3ht5a0cu24sm3juuu3975q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0O2M4cE1VzHHA1JWwSGxqLa3H2TQUv18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313933920466-8auugmf3qv3ht5a0cu24sm3juuu3975q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

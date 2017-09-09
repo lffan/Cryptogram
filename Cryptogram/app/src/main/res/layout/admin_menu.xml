@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top"
+    android:orientation="vertical"
+    tools:context="edu.gatech.seclass.sdpcryptogram.AdminMenuActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="80dp">
+
+        <Button
+            android:id="@+id/add_player"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add a player" />
+
+        <Button
+            android:id="@+id/add_cryptogram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add A Cryptogram " />
+
+    </LinearLayout>
+
+
+</LinearLayout>

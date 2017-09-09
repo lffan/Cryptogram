@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Player Info">
+        <menu>
+            <item
+                android:id="@+id/nav_play_name"
+                android:title="player_user_name" />
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_available_cryptograms"
+            android:title="Available Cryptograms" />
+        <item
+            android:id="@+id/nav_player_ratings"
+            android:title="Player Ratings" />
+    </group>
+
+</menu>

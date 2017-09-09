@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/cryptogram_encoded_letter"
+
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:maxLength="1"
+        android:clickable="false"
+        android:text="TextView"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/cryptogram_my_letter"
+        style="@style/Widget.AppCompat.EditText"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:inputType="text"
+        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        android:maxLength="1" />
+
+
+</LinearLayout>
