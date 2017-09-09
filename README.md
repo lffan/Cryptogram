@@ -1,14 +1,8 @@
 # Cryptogram User Manual
 
-**Author**: Team 19
+**Author**: lffan
 
 **Version**: 1.1
-
-| Version | Time | Description |
-| --------| -----| ------------|
-| 1.1 | 07/15/2017 | revised for D4 |
-| 1.0 | 07/07/2017 | initial version submitted for D3 |
-
 
 ### Introduction
 
