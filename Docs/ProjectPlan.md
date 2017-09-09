@@ -86,9 +86,9 @@ Following the unified process, we have four phases and several activities. Activ
 
 | Member | Roles |
 | :---------------- | :--------------- |
-| Longfei Fan | Project Manager, Developer, UI/UX Leader |
-| Yixiao Chai | Development Leader, Code Reviewer, UI/UX Designer |
-| Basker Kothandam | QA Leader, Developer, Tester |
+| lffan | Project Manager, Developer, UI/UX Leader |
+| yxchai | Development Leader, Code Reviewer, UI/UX Designer |
+| kbasker | QA Leader, Developer, Tester |
 
 ### Roles Description
 

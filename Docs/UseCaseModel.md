@@ -11,7 +11,7 @@
 ## 1 Use Case Diagram
 
 
-![USE case Diagram](Diagrams/team19usecasediagram.png)
+![USE case Diagram](Diagrams/DesignDocument/UseCase.png)
 
 ## 2 Use Case Descriptions
 

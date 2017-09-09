@@ -89,12 +89,3 @@ Cryptograms can be fun brain-teasers and mind-melters, or they can quickly leave
 
 1. Each time a player is logged in, the cyptogram list will be updated automatically.
 2. A player can click the "Request new cryptogram" button to update the list manually.
-
-
-### TROUBLESHOOTING
-
-Force quite the app if something wrong happens.
-
-### TECHNICAL SUPPORT
-
-Technical support E-mail: lfan42@gatech.edu
